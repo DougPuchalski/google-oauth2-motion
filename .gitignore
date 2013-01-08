@@ -11,3 +11,6 @@ nbproject
 *~
 *.sw[po]
 .eprj
+
+# RubyMotion
+.dat*

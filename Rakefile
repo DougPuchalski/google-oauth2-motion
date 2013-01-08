@@ -5,6 +5,10 @@ APP_ROOT = File.expand_path('..', __FILE__)
 $:.unshift("/Library/RubyMotion/lib")
 require 'motion/project'
 
+$:.unshift File.join(APP_ROOT, 'app/lib')
+
+require 'google/auth_proxy'
+
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'google-oauth2-motion'
