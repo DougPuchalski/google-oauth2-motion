@@ -1,0 +1,9 @@
+[submodule "vendor/google-api-objectivec-client"]
+	path = vendor/google-api-objectivec-client
+	url = git@github.com:aceofspades/google-api-objectivec-client.git
+[submodule "vendor/gtm-oauth2"]
+	path = vendor/gtm-oauth2
+	url = git@github.com:aceofspades/gtm-oauth2
+[submodule "vendor/gtm-http-fetcher"]
+	path = vendor/gtm-http-fetcher
+	url = git@github.com:aceofspades/gtm-http-fetcher
