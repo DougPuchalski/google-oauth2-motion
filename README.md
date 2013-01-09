@@ -2,7 +2,7 @@
 
 Authenticate to Google using OAUTH2 in your RubyMotion app.
 
-![](http://raw.github.com/aceofspades/google-oauth2-motion/master/screen_shot.png)
+![Screenshot](https://raw.github.com/aceofspades/google-oauth2-motion/master/screen_shot.png)
 
 This project integrates Google open-source iOS libraries to connect your app to the plethora of services Google
 offers.
